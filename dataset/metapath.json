@@ -1,0 +1,10 @@
+[
+    "[Hacker→IP→Hacker]",
+    "[Hacker→Page→Hacker]",
+    "[Hacker→Domain→Hacker]",
+    "[Hacker→Webserver→Hacker]",
+    "[Hacker→IP→Domain→IP→Hacker]",
+    "[Hacker→Webserver→IP→Webserver→Hacker]",
+    "[Hacker→Domain→Webserver→Domain→Hacker]",
+    "[Hacker→Page→Domain→Webserver→IP→Webserver→Domain→Page→Hacker]"
+]
