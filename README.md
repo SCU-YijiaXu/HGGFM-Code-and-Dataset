@@ -1,6 +1,6 @@
 # HGGFM
 
-The official implementation of paper "Hacker Group Identification based on Multi-Agent Graph Foundation Model".
+The official implementation of paper "Hacker Group Profiling based on Multi-Agent Graph Foundation Model".
 
 ## Features
 
